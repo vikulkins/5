@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PR_5</string>
+    <string name="floor">введите номер этажа</string>
+    <string name="floor2">номер этажа</string>
+    <string name="ready">ГОТОВО</string>
+    <string name="person">список жильцов данной квартиры</string>
+    <string name="number">введите номер квартиры</string>
+    <string name="list">список квартир на этаже</string>
+    <string name="ap">на данном этаже находятся квартиры с 1 по 10</string>
+
+</resources>
